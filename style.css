@@ -67,6 +67,33 @@ font-family: 'Poppins', sans-serif;
     background-repeat: no-repeat;
     background-size: cover;
 }
+.bg-car4{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ), url(imagenes/aleron.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-car5{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ), url(imagenes/Llantas.webp);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-car6{
+    background-image: linear-gradient(
+        rgba(0,0,0,0.5),
+        rgba(0,0,0,0.5)
+    ), url(imagenes/aleron.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .box-icons i {
     font-size: 40px;
 }
@@ -79,8 +106,8 @@ font-family: 'Poppins', sans-serif;
     padding: 80px 0;
 }
 .card img{
-    width: 150px;
-    height: 150px;
+    width: 130px;
+    height: 130px;
 }
 .banner {
     padding: 50px 0;
