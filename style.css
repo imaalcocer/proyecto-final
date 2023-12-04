@@ -201,3 +201,11 @@ font-family: 'Poppins', sans-serif;
     width: 100%;
     right: 0;
 }
+.card:hover {
+    transform: scale(1.05);
+    transition: transform 0.3s ease-in-out;
+}
+
+.card-body a:hover {
+    background-color: #3f3d3d; 
+}
